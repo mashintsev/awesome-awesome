@@ -26,6 +26,8 @@ A curated list of awesome.
 ## Machine Learning
 - [TensorFlow Course](https://github.com/open-source-for-science/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow.
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course https://mlcourse.ai
+- [https://github.com/Avik-Jain/100-Days-Of-ML-Code]() - 100 Days of ML Coding
+- [Deep learning course](https://github.com/yandexdataschool/Practical_DL) - DL course co-developed by HSE, YSDA and Skoltech
 
 ## Back-End
 
@@ -41,3 +43,4 @@ A curated list of awesome Java frameworks, libraries and software.
 
 ## Other
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+- [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job. 
