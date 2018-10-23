@@ -25,6 +25,7 @@ A curated list of awesome.
 
 ## Machine Learning
 - [TensorFlow Course](https://github.com/open-source-for-science/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow.
+- [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course https://mlcourse.ai
 
 ## Back-End
 
