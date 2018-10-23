@@ -10,9 +10,12 @@ A curated list of awesome.
 
 ## Index
 - [Git](#git)
+- [Machine Learning](#ml)
 - [Back-End](#back-end)
   - [Java](#java)
 - [Front-End](#front-end)
+- [JavaScript](#javascript)
+- [Other](#other)
 
 ## Git
 
@@ -20,8 +23,17 @@ A curated list of awesome.
 
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 
+## Machine Learning
+- [TensorFlow Course](https://github.com/open-source-for-science/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow.
+
 ## Back-End
 
 ### Java
 
 ## Front-End
+
+### JavaScript
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 33 concepts every JavaScript developer should know.
+
+## Other
+- [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
