@@ -29,6 +29,7 @@ A curated list of awesome.
 ## Back-End
 
 ### Java
+- (java-design-patterns)[https://github.com/iluwatar/java-design-patterns] - Design patterns implemented in Java http://java-design-patterns.com
 
 ## Front-End
 
