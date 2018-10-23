@@ -31,6 +31,8 @@ A curated list of awesome.
 
 ### Java
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java http://java-design-patterns.com
+- [Awesome Java](https://github.com/akullpp/awesome-java) - 
+A curated list of awesome Java frameworks, libraries and software.
 
 ## Front-End
 
