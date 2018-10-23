@@ -15,6 +15,7 @@ A curated list of awesome.
   - [Java](#java)
 - [Front-End](#front-end)
 - [JavaScript](#javascript)
+- [Books](#books)
 - [Other](#other)
 
 ## Git
@@ -40,6 +41,9 @@ A curated list of awesome Java frameworks, libraries and software.
 
 ### JavaScript
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 33 concepts every JavaScript developer should know.
+
+## Books
+- [Давайте объясню: или зачем программисту математика](http://sprotasov.ru/math_book.html) - Математические модели позволяют нам находить решения задач о реальном мире, заглядывать внутрь вещей и предсказывать будущее, анализируя данные.
 
 ## Other
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
