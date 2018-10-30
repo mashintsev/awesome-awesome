@@ -13,6 +13,7 @@ A curated list of awesome.
 - [Machine Learning](#ml)
 - [Back-End](#back-end)
   - [Java](#java)
+  - [Go](#go)
 - [Front-End](#front-end)
 - [JavaScript](#javascript)
 - [Books](#books)
@@ -37,6 +38,9 @@ A curated list of awesome.
 - [Awesome Java](https://github.com/akullpp/awesome-java) - 
 A curated list of awesome Java frameworks, libraries and software.
 
+### Go
+- [transfer.sh](https://github.com/dutchcoders/transfer.sh) - transfer.sh source code
+
 ## Front-End
 
 ### JavaScript
@@ -47,4 +51,4 @@ A curated list of awesome Java frameworks, libraries and software.
 
 ## Other
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-- [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job. 
+- [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
